@@ -20,5 +20,5 @@ android {
 }
 
 dependencies {
-     implementation 'com.github.sandro0705:ffmpeg-android-java:-SNAPSHOT'
+   implementation 'com.github.sandro0705:AndroidAudioConverter:0113d97c31'
 }
